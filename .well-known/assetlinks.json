@@ -1,0 +1,38 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "pl.aliorbank.nbpro.alr_dev",
+            "sha256_cert_fingerprints": [
+                "7B:91:DB:DA:63:E4:31:F0:78:15:9D:0E:3E:3B:FC:D2:7C:EF:7A:B5:9C:B4:4B:2A:4B:C7:95:5A:98:FF:B7:4A"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "pl.aliorbank.nbpro.malfoj",
+            "sha256_cert_fingerprints": [
+                "7B:91:DB:DA:63:E4:31:F0:78:15:9D:0E:3E:3B:FC:D2:7C:EF:7A:B5:9C:B4:4B:2A:4B:C7:95:5A:98:FF:B7:4A"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "pl.aliorbank.nbpro.alr_test",
+            "sha256_cert_fingerprints": [
+                "7B:91:DB:DA:63:E4:31:F0:78:15:9D:0E:3E:3B:FC:D2:7C:EF:7A:B5:9C:B4:4B:2A:4B:C7:95:5A:98:FF:B7:4A"
+            ]
+        }
+    }
+]
